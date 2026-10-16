@@ -28,4 +28,3 @@ sequenceDiagram
 
     Note right of browser: JavaScript renders the notes on the page
 ```
-
